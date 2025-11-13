@@ -75,7 +75,7 @@ The project investigates:
 ## 📩 Contact
 
 **Anay Mishra**
-Department of ___
+Undergraduate Student, School of Physics
 Indian Institute of Science Education and Research (IISER Thiruvananthapuram)
 📧 Email: *[[anay24@iisertvm.ac.in](mailto:anay24@iisertvm.ac.in)]*
 
